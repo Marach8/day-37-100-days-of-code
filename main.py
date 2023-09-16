@@ -1,4 +1,3 @@
-
 a = input('''
 \033[31mEnter your details in this order! \033[0mFirstname, Lastname, Mother's maiden name and City you were born in:
 >> \033[32m''')
